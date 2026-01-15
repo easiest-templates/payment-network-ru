@@ -1,39 +1,13 @@
-![Preview](https://cdn.poehali.dev/templates/payment-network-ru/preview.jpg)
+# ФинПоток — платёжная сеть
 
-# ФинПоток - Единая платёжная сеть
+![Preview](https://cdn.poehali.dev/templates/payment-network-ru/preview-ru.jpg)
 
-Современный лендинг для платёжной платформы ФинПоток.
+Современный лендинг для финтех-компании или платёжного сервиса. Тёмная элегантная тема с фиолетовыми акцентами. Показывает возможности платформы через интерактивные карточки с демонстрацией функций: связывание счетов, управление ролями, мгновенные переводы.
 
-`tags: ["landing", "dark", "fintech", "glass"]`
+Включает:
+- Hero-секция с CTA кнопками
+- Секция партнёров
+- Три функциональные карточки с UI-демо
+- Адаптивная вёрстка
 
-## Технологии
-
-- React 18
-- TypeScript
-- Vite
-- Tailwind CSS
-- shadcn/ui
-
-## Установка
-
-```bash
-npm install
-```
-
-## Разработка
-
-```bash
-npm run dev
-```
-
-## Сборка
-
-```bash
-npm run build
-```
-
-## Превью
-
-```bash
-npm run preview
-```
+"tags": ["landing", "dark", "fintech", "glass"]
